@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # System Health Monitoring Platform
 
 A comprehensive, automated system health monitoring solution built with Node.js, Express, and MongoDB.
@@ -443,3 +444,6 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 ---
 
 **Built with ❤️ for reliable system monitoring**
+=======
+# System_Health_Monitor
+>>>>>>> 333cfd5e6fc44f7e4effad3b381df167d0a4aca6
